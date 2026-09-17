@@ -1,5 +1,5 @@
-Refridge: 25.187 C
-Freezer: 25.312 C
+Refridge: 23.75 C
+Freezer: 23.5 C
 HotWater: 25.437 C
-Battery voltage is: 3.981 Volts
-Wed 16 Sep 20:02:30 PDT 2026
+Battery voltage is: 3.98 Volts
+Thu 17 Sep 07:16:31 PDT 2026
