@@ -1,1 +1,1 @@
-![](MAImage.jpg)<br>
+![](MAImage.jpg)
