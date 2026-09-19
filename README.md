@@ -19,3 +19,9 @@ HotWater: 23.812 C<br>
 Battery voltage is: 3.943 Volts<br>
 Temperature and Battery readings completed on<br>
 Date: Sat 19 Sep 09:23:04 PDT 2026
+Refridge: 24.75 C<br>
+Freezer: 24.812 C<br>
+HotWater: 24.062 C<br>
+Battery voltage is: 3.944 Volts<br>
+Temperature and Battery readings completed on<br>
+Date: Sat 19 Sep 09:26:45 PDT 2026
