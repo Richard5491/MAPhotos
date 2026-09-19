@@ -1,7 +1,7 @@
-![](MAImage.jpg)
-
-Refridge: 23.187 C<br>
-Freezer: 25.625 C<br>
-HotWater: 11.312 C<br>
-Battery voltage is: 3.942 Volts<br>
-Thu 17 Sep 19:30:57 PDT 2026<br>
+![Moutain-Aire photo](MAImage.jpg)
+Refridge: 24.75 C
+Freezer: 24.875 C
+HotWater: 24 C
+Battery voltage is: 3.943 Volts
+Temperature and Battery readings completed on
+Date: Sat 19 Sep 09:08:44 PDT 2026
