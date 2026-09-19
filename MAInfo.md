@@ -1,1 +1,1 @@
-![great photo](/home/richard/CABIN/MAPhotos/MAImage.jpg)
+![great photo](MAImage.jpg)
