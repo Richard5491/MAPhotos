@@ -1,7 +1,8 @@
 MAPHOTO<br>
-Refridge: 22.062 C<br>
-Freezer: 21.812 C<br>
-HotWater: 21.625 C<br>
-Battery voltage is: 3.941 Volts<br>
+![](MAImage.jpg)
+Refridge: 34.937 C<br>
+Freezer: -22.062 C<br>
+HotWater:  C<br>
+Battery voltage is: 15.791 Volts<br>
 Temperature and Battery readings completed on<br>
-Date: Sat 19 Sep 11:44:30 PDT 2026
+Date: Fri  2 Oct 14:32:49 PDT 2026
